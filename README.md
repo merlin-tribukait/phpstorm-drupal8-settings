@@ -1,2 +1,6 @@
-# phpstorm-drupal8-settings
-Drupal 8 settings for PhpStorm, including custom live templates and code styles
+# PhpStorm custom settings for Drupal 8 [WIP]
+## Includes:
+
+**Live templates**
+  - Twig 'translations'
+  - Twig 'if'
