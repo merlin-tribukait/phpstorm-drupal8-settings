@@ -17,3 +17,5 @@
 3. In the **Select Components to Import** dialog box that opens specify the settings to be imported, and click **OK**. By default, all settings are selected.
 
 ## Guide for live templates
+
+meep test
